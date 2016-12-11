@@ -1,4 +1,0 @@
-name = Boston Blocks
-description = Custom blocks for the Boston site.
-core = 7.x
-package = Boston
